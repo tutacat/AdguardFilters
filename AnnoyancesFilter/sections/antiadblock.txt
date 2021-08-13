@@ -2855,3 +2855,4 @@ slate.com#@#.ad-container
 ! https://github.com/AdguardTeam/AdguardFilters/issues/38404
 @@||ad.71i.de/somtag/loader/loader.js$domain=dtm.com|sportdeutschland.tv
 !#safari_cb_affinity
+thenextdroid.com##tie-popup-adblock
